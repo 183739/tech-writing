@@ -1,2 +1,3 @@
 Robert Graves
 I am going to write instructions for how to rebuild a 4-barrel 600 CFM Edelbrock carburetor. I will begin with the tools needed and a brief overview of the operation. I will proceed to the breakdown of the original carburetor then explain the steps to assembling the new carburetor including detailed instructions about the importance of cleaning it. I will also include warnings for the materials and chemicals needed to complete the job. I will conclude with instructions on properly mounting and adjusting the carburetor on the vehicle. Finally, I will list suitable vehicles for which that particular carburetor can be mounted.  
+ 
