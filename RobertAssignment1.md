@@ -25,8 +25,8 @@ Two screws on either side of the carburetor called “idle mixture screws” con
 * Viewing your dwell meter, idle rpms most likely have been altered. Return rpms back to 850 rpm using the idle speed screw to conclude carburetor setup.  	
 ## Common Pitfalls and Frequently Asked Questions:
 #### How do I select the right carburetor for my engine?
-
+Selecting a carburetor for your engine doesn't have to be complicated. Asking a mechanic or a simple google search will probably get you close or you can determine which carburetor to choose via this equation: Engine size (C.I.D.) *Cubic Inch Displacement x* Maximum rpm / 3.456= Recomended cfm
 #### I've adjusted the idle mixture screws, but they have no effect.
-
+Needles and floats may settle during shipping: The problem should be resolved by gently tapping on the perimeter of the carburetor with a rubber mallet.
 #### I don't possess a tach/dwell meter and/or vacuum gauge- Should I continue regardless?
  These instruments are mandatory for the proper installation of your carburetor. Attempting to calibrate the carburetor by "feel" is highly discouraged as damage can occur.
