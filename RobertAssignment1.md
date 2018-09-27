@@ -1,8 +1,8 @@
 # Robert Graves
    
-### Congratulations on your new Edelbrock carburetor! This is a 4-barrel 650 CFM carburetor with an electric choke, meaning your new carburetor has the capacity to deliver 650 cubic feet of air per minute (CFM) through four seperate chambers to your engine. The electric choke allows for easy cold-starting with the turn of a key. With the help of this guide, installation and setup should be relatively painless providing you possess the recommended tools. 
+### Congratulations on your new Edelbrock carburetor! This is a 4-barrel 650 CFM carburetor with an electric choke, meaning your new carburetor has the capacity to deliver 650 cubic feet of air per minute (CFM) through four seperate chambers to your engine. The electric choke allows for easy cold-starting with the turn of a key. With the help of this guide, installation and setup should be relatively painless providing you possess the required tools. 
  ### Installation of your carburetor can be completed at home with minimal tools required; with that said, it is important that steps be followed accurately to prevent engine damage, bodily harm, and/or voiding of warranties. If you are not comfortable working on your vehicle consult your local automotive professional.  
-#### Recommended Tools:
+#### Required Tools:
 * Standard Screwdriver
 * 1/2" Socket
 * 3/8" Ratchet
@@ -23,3 +23,10 @@ Two screws on either side of the carburetor called “idle mixture screws” con
 * With vehicle running, view dwell meter. Using the idle speed screw located on the throttle, loosen or tighten to achieve 850 rpm. (Clockwise raises and counter-clockwise lowers rpm.) This, again, is a starting point. 
 * Most likely, the carburetor is running rich, so choose a screw and slightly loosen it. The vacuum gauge should read an increase in vacuum. Continue to loosen that screw until maximum vacuum is achieved. Repeat the process with the apposing screw. 
 * Viewing your dwell meter, idle rpms most likely have been altered. Return rpms back to 850 rpm using the idle speed screw to conclude carburetor setup.  	
+## Common Pitfalls and Frequently Asked Questions:
+#### How do I select the right carburetor for my engine?
+
+#### I've adjusted the idle mixture screws, but they have no effect.
+
+#### I don't possess a tach/dwell meter and/or vacuum gauge- Should I continue regardless?
+ These instruments are mandatory for the proper installation of your carburetor. Attempting to calibrate the carburetor by "feel" is highly discouraged as damage can occur.
