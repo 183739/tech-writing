@@ -12,17 +12,17 @@
  1. First, it is emperitive that the existing gasket atop your intake manifold be entirely cleaned of all debris. Brake cleaner or other chemical sprays are recommended. (Warning: Enginge damage can occur if debris falls into intake manifold. Insert towels or tape off manifold opening before attempting to clear debris.) Mounting your new carburetor on a clean surface ensures a sufficient seal between the carburater and the manifold via the gasket.
  2. Once the mounting surface is thoroughly cleaned, place new gasket on manifold. Now you are ready to mount your carburetor.
  3. No additional set-up is required. Center the carburetor on the intake manifold and align the three bolt holes to be seated. Hand tighten bolts to prevent cracking of mounting brackets. 
-   * Connect the throttle linkage.
-   * Connect the wire from the electric choke to the thermostat.   
-4. Next, replace the intake instrument and tighten the wing nut. (Replacing air filter is recommended as clean air is crucial to the performance of your new carburetor.) 
+ 4. Connect the throttle linkage.
+ 5. Connect the wire from the electric choke to the thermostat.   
+ 6. Next, replace the intake instrument and tighten the wing nut. (Replacing air filter is recommended as clean air is crucial to the performance of your new carburetor.) 
 ## Now to calibrate your carburetor:
 Two screws on either side of the carburetor called “idle mixture screws” control the ratio of air to fuel within.  Your carburetor’s idle mixture screws are set on factory settings, so they need to be adjusted to suit your engine. 
-* With engine off, gently fasten both idle mixture screws completely, then back them out two complete turns. This provides a starting point to begin the idle mixture adjustment.
-  * Fastening the screws generates a lean mixture (more air than fuel) while loosening them creates a rich mixture (more fuel than air). This tutorial will address fuel efficient idle mixture adjustments intended for daily driving as apposed to increased fuel consuming performance conditions. 
-* Bring vehicle up to operating temperature then shut it down. Attach dwell meter and vacuum gauge and place them in suitable/safe areas of the engine bay where they can be easily viewed. 
-* With vehicle running, view dwell meter. Using the idle speed screw located on the throttle, loosen or tighten to achieve 850 rpm. (Clockwise raises and counter-clockwise lowers rpm.) This, again, is a starting point. 
-* Most likely, the carburetor is running rich, so choose a screw and slightly loosen it. The vacuum gauge should read an increase in vacuum. Continue to loosen that screw until maximum vacuum is achieved. Repeat the process with the apposing screw. 
-* Viewing your dwell meter, idle rpms most likely have been altered. Return rpms back to 850 rpm using the idle speed screw to conclude carburetor setup.  	
+1. With engine off, gently fasten both idle mixture screws completely, then back them out two complete turns. This provides a starting point to begin the idle mixture adjustment.
+  * *Fastening the screws generates a lean mixture (more air than fuel) while loosening them creates a rich mixture (more fuel than air). This tutorial will address fuel efficient idle mixture adjustments intended for daily driving as apposed to increased fuel consuming performance conditions. 
+2. Bring vehicle up to operating temperature then shut it down. Attach dwell meter and vacuum gauge and place them in suitable/safe areas of the engine bay where they can be easily viewed. 
+3. With vehicle running, view dwell meter. Using the idle speed screw located on the throttle, loosen or tighten to achieve 850 rpm. (Clockwise raises and counter-clockwise lowers rpm.) This, again, is a starting point. 
+  * *Most likely, the carburetor is running rich, so choose a screw and slightly loosen it. The vacuum gauge should read an increase in vacuum. Continue to loosen that screw until maximum vacuum is achieved. Repeat the process with the apposing screw. 
+4. Viewing your dwell meter, idle rpms most likely have been altered. Return rpms back to 850 rpm using the idle speed screw to conclude carburetor setup.  	
 ## Common Pitfalls and Frequently Asked Questions:
 #### How do I select the right carburetor for my engine?
 Selecting a carburetor for your engine doesn't have to be complicated. Asking a mechanic or a simple google search will probably get you close or you can determine which carburetor to choose via this equation: Engine size (C.I.D.) *Cubic Inch Displacement x* Maximum rpm / 3.456= Recomended cfm
