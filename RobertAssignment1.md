@@ -8,7 +8,7 @@
 * 3/8" Ratchet
 * Tach/Dwell Meter
 * Vacuum Guage
-
+## Installation:
  * First, it is emperitive that the existing gasket atop your intake manifold be entirely cleaned of all debris. Brake cleaner or other chemical sprays are recommended. (Warning: Enginge damage can occur if debris falls into intake manifold. Insert towels or tape off manifold opening before attempting to clear debris.) Mounting your new carburetor on a clean surface ensures a sufficient seal between the carburater and the manifold via the gasket.
  * Once the mounting surface is thoroughly cleaned, place new gasket on manifold. Now you are ready to mount your carburetor.
  * No additional set-up is required. Center the carburetor on the intake manifold and align the three bolt holes to be seated. Hand tighten bolts to prevent cracking of mounting brackets. 
