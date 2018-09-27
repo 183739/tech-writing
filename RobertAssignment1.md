@@ -1,6 +1,6 @@
-# Robert Graves
+# Carburetor Installation
    
-### Congratulations on your new Edelbrock carburetor! This is a 4-barrel 650 CFM carburetor with an electric choke, meaning your new carburetor has the capacity to deliver 650 cubic feet of air per minute (CFM) through four seperate chambers to your engine. The electric choke allows for easy cold-starting with the turn of a key. With the help of this guide, installation and setup should be relatively painless providing you possess the required tools. 
+#### Congratulations on your new Edelbrock carburetor! This is a 4-barrel 650 CFM carburetor with an electric choke, meaning your new carburetor has the capacity to deliver 650 cubic feet of air per minute (CFM) through four seperate chambers to your engine. The electric choke allows for easy cold-starting with the turn of a key. With the help of this guide, installation and setup should be relatively painless providing you possess the required tools. 
  ### Installation of your carburetor can be completed at home with minimal tools required; with that said, it is important that steps be followed accurately to prevent engine damage, bodily harm, and/or voiding of warranties. If you are not comfortable working on your vehicle consult your local automotive professional.  
 #### Required Tools:
 * Standard Screwdriver
