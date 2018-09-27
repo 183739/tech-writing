@@ -27,4 +27,4 @@ Selecting a carburetor for your engine doesn't have to be complicated. Asking a 
 #### I've adjusted the idle mixture screws, but they have no effect.
 Needles and floats may settle during shipping: The problem should be resolved by gently tapping on the perimeter of the carburetor with a rubber mallet.
 #### I don't possess a tach/dwell meter and/or vacuum gauge- Should I continue regardless?
- These instruments are mandatory for the proper installation of your carburetor. Attempting to calibrate the carburetor by "feel" is highly discouraged as damage can occur.
+ These instruments are mandatory for the proper installation of your carburetor. Attempting to calibrate the carburetor by "feel" is highly discouraged as damage can occur. 
